@@ -1,6 +1,6 @@
 ## Historical Video Project on Cuban History
 Raggaeton History Video Project on Cuban History (54 seconds, 9:16 format) by @jim_nomad 
-\
+
 ## Tools used
 - Midjourney v6.1: Historical scenes generation
 - Suno v3: Period-inspirated raggaeton background music
