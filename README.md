@@ -8,7 +8,7 @@ Raggaeton History Video Project on Cuban History (54 seconds, 9:16 format) by @j
 \
 ## Files\
 - \'cuban-history-main-video.mp4': Main video file (9:16, 59s)\
-- \'prompts/': Directory containing all AI prompts used\
+- \'prompts.rtf': File containing all AI prompts used\
 - \'source_images/': Original AI-generated images and public domain images\
 - \'audio/': Generated background track and raggaeton song\
 \
